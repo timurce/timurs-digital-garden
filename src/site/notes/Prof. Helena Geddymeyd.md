@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prof-helena-geddymeyd/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/prof-helena-geddymeyd/"}
 ---
 
 # Bild
