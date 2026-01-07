@@ -5,7 +5,7 @@
 
 # The golden Egg - Der Diplomatin Journal
 
-*Kurze Notiz an mich selbst: Wir lernen gerade viele interessantere Individuen in und außerhalb von Adnos kennen. Ich habe mich dazu entschieden, diese zu dokumentieren, um mehr über die verschieden Charaktere und deren Eigenschaften herauszufinden - vielleicht für die eine oder andere arkane Erkenntnis. Die Erkenntnisse helfen mir sicher bei der einen oder anderen.*
+*Kurze Notiz an mich selbst: Wir lernen gerade viele interessantere Individuen in und außerhalb von Adnos kennen. Ich habe mich dazu entschieden, diese zu dokumentieren, um mehr über die verschieden Charaktere und deren Eigenschaften herauszufinden - vielleicht für die eine oder andere arkane Erkenntnis oder für meine Studien zu Psychomagie. Erinnerung an mich: Dies sollte noch magisch unlesbar versiegelt werden, man weiß ja nie...*
 
 ## Steckbriefe
 - [[Archmage Kaelen Myrris\|Archmage Kaelen Myrris]]
