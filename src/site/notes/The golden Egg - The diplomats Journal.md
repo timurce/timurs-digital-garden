@@ -3,7 +3,7 @@
 ---
 
 
-
+# The golden Egg - Der Diplomatin Journal
 
 - [[Archmage Kaelen Myrris\|Archmage Kaelen Myrris]]
 - [[Archmage Seraphina Deylen\|Archmage Seraphina Deylen]]
