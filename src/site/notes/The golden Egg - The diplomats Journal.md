@@ -11,10 +11,11 @@
 - [[Archmage Kaelen Myrris\|Archmage Kaelen Myrris]]
 - [[Archmage Seraphina Deylen\|Archmage Seraphina Deylen]]
 - [[Der alte Gilbert\|Der alte Gilbert]]
+- [[Lunara Nachtschatten\|Lunara Nachtschatten]]
 - [[Extras/Templates/Template, DnD Non Player Character\|Template, DnD Non Player Character]]
 - [[Naola Windthorn\|Naola Windthorn]]
 - [[Seargeant Andrea Ditt\|Seargeant Andrea Ditt]]
-- [[Lunala Nachtschatten\|Lunala Nachtschatten]]
+- [[Codename "Droop"\|Codename "Droop"]]
 
 { .block-language-dataview}
 
