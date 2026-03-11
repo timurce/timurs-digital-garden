@@ -10,12 +10,13 @@
 ## Steckbriefe
 - [[Archmage Kaelen Myrris\|Archmage Kaelen Myrris]]
 - [[Archmage Seraphina Deylen\|Archmage Seraphina Deylen]]
+- [[Codename "Droop"\|Codename "Droop"]]
 - [[Der alte Gilbert\|Der alte Gilbert]]
 - [[Lunara Nachtschatten\|Lunara Nachtschatten]]
 - [[Extras/Templates/Template, DnD Non Player Character\|Template, DnD Non Player Character]]
 - [[Naola Windthorn\|Naola Windthorn]]
 - [[Seargeant Andrea Ditt\|Seargeant Andrea Ditt]]
-- [[Codename "Droop"\|Codename "Droop"]]
+- [[Unbenannt 1\|Unbenannt 1]]
 
 { .block-language-dataview}
 
