@@ -5,10 +5,10 @@
 # Bild
 
 # Charakterbeschreibung
-Erzmagierin der Abjuration-Fakultät
+Erzmagierin der Abjuration-Fakultät. 
 # Charakter-Log 
 
-| Session | Entwicklung/Encounter |
-| ------- | --------------------- |
-|         |                       |
-|         |                       |
+| Session | Entwicklung/Encounter                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 9       | Adda geleitet die Gruppe zu dem Büro von Seraphina Deylen. Adda fragte Sie, nach einem Zauber, der psychischen Schmerz verursacht, wenn versucht, ein versucht einen Bestimmten Schriftzug zu verstehen. Konkret ist dieses vorher bei Leopold geschehen, als dieser Versucht hat, die Sätze zu entziffern, die Elandors Mutter ihrem Ehemann geschickt hat. Sie findet diesen Gegenstand sehr interessant und bietet an diesen zu untersuchen. Allerdings nur unter der Bedingung, dass eventuelle Lorbeeren, die anfallen alleine auf Sie zurückgehen werden. Auch wenn normalerweise eine derartige Adda lehnt das ab. Dies kam nicht so gut an. Sie akzeptiert es. |
+|         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
